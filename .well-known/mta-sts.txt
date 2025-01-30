@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mail.yasmin.academy
-mx: *.yasmin.academy
+mx: shadow.mxrouting.net
 mx: *.mxrouting.net
 max_age: 86400
